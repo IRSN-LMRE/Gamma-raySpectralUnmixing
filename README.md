@@ -42,9 +42,9 @@ The metrological use of spectrum analysis tool requires:
 ## Test examples<a name="test"></a>
 The test examples can be found in the following Jupyter Notebook:
 
-* [example_unmix.ipynb](https://github.com/xu-jia/Gamma-raySpectralUnmixing/blob/master/example_unmix.ipynb), spectral unmixing.
-* [example_sparse.ipynb](https://github.com/xu-jia/Gamma-raySpectralUnmixing/blob/master/example_sparse.ipynb), sparse spectral unmixing.
-* [example_realdata.ipynb](https://github.com/xu-jia/Gamma-raySpectralUnmixing/blob/master/example_realdata.ipynb), Real data analysis.
+* [example_unmix.ipynb](https://github.com/IRSN-LMRE/Gamma-raySpectralUnmixing/blob/master/example_unmix.ipynb), spectral unmixing.
+* [example_sparse.ipynb](https://github.com/IRSN-LMRE/Gamma-raySpectralUnmixing/blob/master/example_sparse.ipynb), sparse spectral unmixing.
+* [example_realdata.ipynb](https://github.com/IRSN-LMRE/Gamma-raySpectralUnmixing/blob/master/example_realdata.ipynb), Real data analysis.
 
 #### This work was done in the thesis of Jiaxin Xu, under the supervision of Jérôme Bobin, CEA and Anne de Vismes Ott, IRSN.
 
